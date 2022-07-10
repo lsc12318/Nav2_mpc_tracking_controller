@@ -1,0 +1,10 @@
+<class_libraries>
+    <library path="mpc_tracking_controller">
+        <class type="mpc_tracking_controller::MpcTrackingController" base_class_type="nav2_core::Controller">
+            <description>
+                mpc_tracking_controller
+            </description>
+        </class>
+    </library>
+</class_libraries>
+
