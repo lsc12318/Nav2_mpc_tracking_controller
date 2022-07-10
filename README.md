@@ -4,7 +4,7 @@ The controller plug-in developed for Navigation2 uses MPC to track the trajector
 
 ## demo
 
-
+![](https://github.com/lsc12318/Nav2_mpc_tracking_controller/blob/main/pics/demo.gif)
 
 
 
