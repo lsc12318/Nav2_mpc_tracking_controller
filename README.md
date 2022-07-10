@@ -1,6 +1,6 @@
 # Nav2_mpc_tracking_controller
 
-The controller plug-in developed for Navigation2 uses MPC to track the trajectory. In order to ensure the control accuracy, in the end point control, the pure tracking algorithm is used to achieve point tracking . The implement of MPC is mainly refer to https://github.com/udacity/CarND-MPC-Quizzes. The difference is that our object is for the differential robot.
+The controller plug-in developed for Navigation2 uses MPC to track the trajectory. In order to ensure the control accuracy, in the end point control, the pure tracking algorithm is used to achieve point tracking . The implement of MPC is mainly refer to https://github.com/udacity/CarND-MPC-Quizzes.
 
 ## demo
 
